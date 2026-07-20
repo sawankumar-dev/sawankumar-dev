@@ -25,6 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
+<pre>
 const sawan = {
     name: "Sawan Kumar",
     location: "Uttar Pradesh, India 🇮🇳",
@@ -48,7 +49,8 @@ const sawan = {
     currentFocus: "Building production-ready applications with Next.js",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
-
+</pre>
+---
 ## 🚀 Tech Stack
 
 ### 💻 Languages
